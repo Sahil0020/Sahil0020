@@ -1,3 +1,4 @@
+Hi 👋, I'm Sahil Joshi
 # 💫 About Me:
 I’m a Java Full Stack Developer focused on understanding how real-world software systems are built — not just how to write code.<br>I work mainly with Java, Spring Boot, React, and SQL databases, and I enjoy exploring how backend systems operate behind the scenes — from authentication and database design to REST APIs.<br>I’m continuously improving my problem-solving skills and working toward becoming a job-ready, industry-level Java developer.
 
